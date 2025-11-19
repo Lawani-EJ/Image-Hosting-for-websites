@@ -25,3 +25,16 @@ At the end of the upload process, the image is hosted on the server. You then re
 4. Embeded code that uses JavaScript to dynamically display the image.
 5. A Clickable thumbnail that links to the full image.
 
+Image hosts often impose limits on the maximum image size allowed, the total amount of storage, the maximum bandwith allowed per period, or some combination of these. Free services typically have a relatively small per-image size limit compared to paid services.
+
+# Image hosting sites 
+1. cloudinary
+2. Flickr
+3. Imgur
+4. pixbay
+5. 500px.com
+6. Unsplash
+7. SmugMug
+8. Photobucket
+9. TinyPic
+10. Google Photos
